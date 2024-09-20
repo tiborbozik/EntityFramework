@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\source\\repos\\StudentDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6742AA1-3905-408D-9E9F-B81804C2DA30}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\monic\\source\\repos\\studentdatabase\\studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6742AA1-3905-408D-9E9F-B81804C2DA30}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6742AA1-3905-408D-9E9F-B81804C2DA30}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\monic\\source\\repos\\studentdatabase\\studentdatabase\\studentdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6742AA1-3905-408D-9E9F-B81804C2DA30}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\studentdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\source\\repos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\monic\\source\\repos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeToolTip": "StudentDatabase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:55:46.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDatabase",
+              "DocumentMoniker": "C:\\Users\\monic\\source\\repos\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
+              "RelativeDocumentMoniker": "StudentDatabase\\StudentDatabase.csproj",
+              "ToolTip": "C:\\Users\\monic\\source\\repos\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
+              "RelativeToolTip": "StudentDatabase\\StudentDatabase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T21:55:32.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
